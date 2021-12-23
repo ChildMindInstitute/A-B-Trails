@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "ab_trails_v2": "https://raw.githubusercontent.com/ChildMindInstitute/A-B-Trails/main/activities/ab_trails_v2/items/",
+        "trail1": {
+            "@id": "ab_trails_v2:trail1",
+            "@type": "@id"
+        },
+        "trail2": {
+            "@id": "ab_trails_v2:trail2",
+            "@type": "@id"
+        },
+        "trail3": {
+            "@id": "ab_trails_v2:trail3",
+            "@type": "@id"
+        },
+        "trail4": {
+            "@id": "ab_trails_v2:trail4",
+            "@type": "@id"
+        }
+    }
+}
