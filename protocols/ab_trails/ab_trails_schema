@@ -8,6 +8,7 @@
     "skos:prefLabel": "A/B Trails",
     "schema:description": "Trail Making Test",
     "landingPage": "",
+    "streamEnabled": true,
     "schema:schemaVersion": "1.0.0",
     "schema:version": "1.0.0",
     "ui": {
