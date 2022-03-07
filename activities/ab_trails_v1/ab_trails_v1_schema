@@ -3,7 +3,8 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
         "https://raw.githubusercontent.com/ChildMindInstitute/A-B-Trails/main/activities/ab_trails_v1/ab_trails_v1_context"
     ],
-    "@type": "reproschema:TRAILS_MOBILE",
+    "@type": "reproschema:Activity",
+    "activityType": "TRAILS_MOBILE",
     "@id": "A/B Trails v1.0",
     "skos:prefLabel": "Trails_Mobile",
     "schema:description": "A/B Trails v1.0",
