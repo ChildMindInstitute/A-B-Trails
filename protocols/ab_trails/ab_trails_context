@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/A-B-Trails/main/activities/",
+        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/mindlogger-trails-task/main/activities/",
         "ab_trails_v1": {
             "@id": "activity_path:ab_trails_v1/ab_trails_v1_schema",
             "@type": "@id"

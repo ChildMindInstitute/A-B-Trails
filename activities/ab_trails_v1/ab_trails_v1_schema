@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/ChildMindInstitute/A-B-Trails/main/activities/ab_trails_v1/ab_trails_v1_context"
+        "https://raw.githubusercontent.com/ChildMindInstitute/mindlogger-trails-task/main/activities/ab_trails_v1/ab_trails_v1_context"
     ],
     "@type": "reproschema:Activity",
     "activityType": "TRAILS_MOBILE",
