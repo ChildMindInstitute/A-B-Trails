@@ -8,6 +8,12 @@
     "skos:prefLabel": "A/B Trails",
     "schema:description": "Trail Making Test",
     "landingPage": "",
+    "landingPageContent": "",
+    "landingPageType": "markdown",
+    "activityFlows": {
+        "activityFlowOrder": [],
+        "activityFlowProperties": []
+    },
     "streamEnabled": true,
     "schema:schemaVersion": "1.0.0",
     "schema:version": "1.0.0",
